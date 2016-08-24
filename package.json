@@ -1,0 +1,28 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "My Resume",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xmmwc/resume.git"
+  },
+  "keywords": [
+    "resume",
+    "xmmwc",
+    "xiemumu"
+  ],
+  "author": "xmmwc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xmmwc/resume/issues"
+  },
+  "homepage": "https://github.com/xmmwc/resume#readme",
+  "devDependencies": {
+    "node-static": "^0.7.8"
+  }
+}
